@@ -1,5 +1,6 @@
 # Cellular automata generative art
- A python implementation of a modified Conway's game of life algorithm to generate cool visuals
+ A python implementation of a modified Conway's game of life algorithm to generate cool visuals:
+ ![alt text](plots/output.png)
 # Background and further reading
 I've been interested in doing "generative art" for some time now, and this is my first foray into the field(the last repo i uploaded was sort of generative art but wasnt algorithmic or mathematically interesting at all. I had just happened to luck onto some transformations that worked well).
 I first came across cellular automata on www.fronkonstin.com which is an immensly goated site. I plan to implement more algorithms from there. 
